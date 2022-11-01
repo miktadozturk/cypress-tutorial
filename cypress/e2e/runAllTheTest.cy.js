@@ -1,0 +1,5 @@
+import './cypress-egitim/firstTest.spec'
+import './cypress-egitim/loginCustomCommands.spec'
+import './cypress-egitim/navigations.spec'
+import './cypress-egitim/pomExample.spec'
+import './cypress-egitim/sauceDemoLoginTest.spec'
